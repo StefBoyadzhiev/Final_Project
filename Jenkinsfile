@@ -1,9 +1,6 @@
 pipeline {
     agent any
     environment{
-        image_name="pipeline {
-    agent any
-    environment{
         image_name="677661725893.dkr.ecr.eu-central-1.amazonaws.com/flaskapp"
         region="eu-central-1"
     }
